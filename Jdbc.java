@@ -8,7 +8,7 @@ public class Jdbc {
     public void call() {
     	int ss = 1;
     	selectOne(ss,ss);
-    	System.out.println(ss);
+    	System.out.println(ss+"sdfsdfsdfs");
     }
     
     public static void main(String[] args) {
